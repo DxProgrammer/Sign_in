@@ -1,0 +1,111 @@
+body{
+    background-color: rgb(231, 48, 118);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.log{
+    background-color: white;
+    min-height: 500px;
+    border-radius: 7px;
+    min-width: 22%;
+}
+.in{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     padding: 30px 0px 0px 20px;
+     text-decoration: underline 4px rgb(179, 18, 117);
+}
+.name{
+    padding: 0px 0px 20px 20px;
+    
+    
+}
+#na{
+    border: none;
+    border-bottom: 2px solid palevioletred;
+    outline: none;
+    
+    
+}
+.button{
+    margin-left: 20px;
+    width: 300px;
+    background-color: rgb(231, 48, 118);
+    border-radius: 5px;
+    height: 40px;
+    color: white;
+    border: 2px solid rgb(231, 48, 118);
+    margin-bottom: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+
+}
+.h5{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-right: 40px;
+}
+ .twitter{
+    margin-left: 20px;
+    width: 300px;
+    background-color: rgb(0,198,240);
+    border-radius: 5px;
+    height: 40px;
+    color: white;
+    border: 2px solid rgb(0, 192, 240);
+    margin-bottom: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    margin-top: 20px;
+    
+ }
+.twitter [type=button]{
+    background: transparent;
+    outline: none;
+    border: none;
+    color: white;
+    margin-left: 20%;
+    font-size: 17px;
+    margin-top: 9px;
+    padding-right: 20px;
+    
+}
+ .twitter img{
+    height: 40px;
+    position: absolute;
+    margin-left: -230px;
+    background: transparent;
+}
+.facebook{
+    margin-left: 20px;
+    width: 300px;
+    background-color: rgb(74, 58, 214);
+    border-radius: 5px;
+    height: 40px;
+    color: white;
+    border: 2px solid rgb(72, 58, 214);
+    margin-bottom: 90px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.facebook input[type=button]{
+    background: transparent;
+    outline: none;
+    border: none;
+    color: white;
+    margin-left: 15%;
+    font-size: 17px;
+    margin-top: 9px;
+    padding-right: 20px;
+    
+}
+img{
+    height: 40px;
+    height: 40px;
+    position: absolute;
+    margin-left: -235px;
+    background: transparent;
+}
+
